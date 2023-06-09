@@ -1,4 +1,4 @@
-import './card.css';
+import './Card.css';
 import { Button } from '../Button';
 import { VARIANTS, SIZES } from '../../../constants/constant';
 
