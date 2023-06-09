@@ -1,4 +1,4 @@
-import './categories.css';
+import './Categories.css';
 import { Button } from '../../Common/Button';
 import { VARIANTS } from '../../../constants/constant';
 import { ICON } from '../../../constants/images';
