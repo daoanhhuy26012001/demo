@@ -1,0 +1,10 @@
+.categories {
+  padding: 1em 0;
+  display: flex;
+  gap: 1em;
+}
+
+.categories .button {
+  display: flex;
+  gap: 0.5em;
+}
